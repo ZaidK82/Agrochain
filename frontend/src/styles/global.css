@@ -1,0 +1,78 @@
+/* ==========================
+   Full-page Layout & Background
+========================== */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('/images/image.png'); /* place image in public/images */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #fff; /* default text color */
+  position: relative;
+}
+
+/* Optional overlay for readability */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-color: rgba(0,0,0,0.35);
+  z-index: -1;
+}
+
+/* ==========================
+   Main Dashboard / Page Wrapper
+========================== */
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem; /* optional, helps spacing */
+}
+
+
+/* ==========================
+   Forms & Cards
+========================== */
+.cards-container,
+form {
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Add semi-transparent background for readability */
+.card,
+form,
+.forecast-results,
+.recharts-wrapper {
+  background-color: rgba(255, 255, 255, 0.9); /* white with transparency */
+  color: #000; /* black text for readability */
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+/* ==========================
+   Responsive Layout
+========================== */
+@media (max-width: 768px) {
+  .cards-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card, form {
+    width: 90%;
+  }
+
+  .recharts-wrapper {
+    width: 95%;
+  }
+}
