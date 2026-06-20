@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  besu:
+    image: hyperledger/besu:24.1.2
+    container_name: besu-node
+    command: |
+      --network=dev
+      --rpc-http-enabled=true
+      --rpc-http-host=0.0.0.0
+      --rpc-http-port=8545
+      --host-allowlist=*
+      --rpc-http-cors-origins=*
+      --data-path=/data
+      --min-gas-price=0
+    ports:
+      - "8545:8545"
+    volumes:
+      - ./data:/data

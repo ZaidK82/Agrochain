@@ -1,0 +1,146 @@
+[  {
+  "crop": "Rice",
+  "disease": "Blast",
+  "symptom": "diamond-shaped lesions on leaves with gray center and brown margins; neck rot in severe cases",
+  "cause": "fungal infection (Magnaporthe oryzae)",
+  "trigger_conditions": {
+    "humidity": ">85%",
+    "temperature": "20-28°C",
+    "nitrogen": "excess nitrogen fertilizer",
+    "plant_density": "dense planting",
+    "weather": "frequent rainfall or leaf wetness"
+  },
+  "affected_stage": ["seedling", "tillering", "panicle initiation"],
+  "impact": "reduces photosynthesis and can cause severe yield loss due to panicle damage",
+  "severity": "high",
+  "yield_loss_estimate": "10-70% depending on severity",
+  "prevention": [
+    "use resistant varieties",
+    "avoid excess nitrogen fertilizer",
+    "maintain proper plant spacing",
+    "ensure good field drainage"
+  ],
+  "treatment": [
+    "spray Tricyclazole 0.6 g/L at early stage",
+    "apply fungicide at first appearance of lesions"
+  ],
+  "if_then_logic": [
+    "if high humidity and dense planting then high risk of blast infection",
+    "if excess nitrogen applied then blast severity increases"
+  ],
+  "content": "Rice blast is a fungal disease caused by Magnaporthe oryzae. It appears as diamond-shaped lesions on leaves and can progress to neck rot, severely reducing yield. It is favored by high humidity, moderate temperatures, dense planting, and excess nitrogen fertilization."
+},
+  {
+  "crop": "Rice",
+  "disease": "Bacterial Leaf Blight",
+  "symptom": "yellowing and drying of leaf margins starting from tips; water-soaked streaks",
+  "cause": "bacterial infection (Xanthomonas oryzae pv. oryzae)",
+  "trigger_conditions": {
+    "humidity": "high",
+    "temperature": "25-34°C",
+    "water": "standing water",
+    "wind": "strong winds causing leaf injury"
+  },
+  "affected_stage": ["tillering", "booting"],
+  "impact": "reduces leaf area and photosynthesis, leading to lower grain filling",
+  "severity": "medium to high",
+  "yield_loss_estimate": "20-50%",
+  "prevention": [
+    "use resistant varieties",
+    "avoid excessive nitrogen",
+    "maintain field hygiene"
+  ],
+  "treatment": [
+    "apply copper-based bactericides",
+    "remove infected plant debris"
+  ],
+  "if_then_logic": [
+    "if high humidity and standing water then BLB risk increases",
+    "if leaves are damaged by wind then infection spreads faster"
+  ],
+  "content": "Bacterial leaf blight in rice causes yellowing from leaf tips and spreads downward. It is common in high humidity and warm temperatures, especially in fields with standing water. The disease reduces photosynthesis and grain yield."
+},
+  {
+  "crop": "Rice",
+  "disease": "Brown Spot",
+  "symptom": "small brown circular spots on leaves; may enlarge and coalesce",
+  "cause": "fungal infection (Bipolaris oryzae) often associated with nutrient deficiency",
+  "trigger_conditions": {
+    "soil": "poor fertility",
+    "nutrients": "low nitrogen or potassium",
+    "water": "drought stress",
+    "temperature": "high temperature"
+  },
+  "affected_stage": ["all stages"],
+  "impact": "reduces leaf area and plant vigor, leading to lower yield",
+  "severity": "medium",
+  "yield_loss_estimate": "5-30%",
+  "prevention": [
+    "maintain balanced fertilization",
+    "improve soil fertility",
+    "use certified seeds"
+  ],
+  "treatment": [
+    "apply fungicides if severe",
+    "correct nutrient deficiencies"
+  ],
+  "if_then_logic": [
+    "if soil fertility is low then brown spot risk increases",
+    "if drought stress occurs then severity increases"
+  ],
+  "content": "Brown spot disease in rice appears as small brown lesions on leaves and is often linked to poor soil fertility and drought stress. It reduces plant vigor and yield, especially under nutrient-deficient conditions."
+},
+  {
+  "crop": "Rice",
+  "disease": "Sheath Blight",
+  "symptom": "oval or irregular green-gray lesions on leaf sheath near water level",
+  "cause": "fungal infection (Rhizoctonia solani)",
+  "trigger_conditions": {
+    "humidity": "high",
+    "plant_density": "dense canopy",
+    "nitrogen": "excess nitrogen",
+    "water": "standing water"
+  },
+  "affected_stage": ["tillering", "heading"],
+  "impact": "reduces photosynthetic area and weakens plant structure",
+  "severity": "medium to high",
+  "yield_loss_estimate": "10-40%",
+  "prevention": [
+    "maintain proper spacing",
+    "avoid excess nitrogen",
+    "improve air circulation"
+  ],
+  "treatment": [
+    "apply fungicides such as validamycin",
+    "manage field conditions"
+  ],
+  "if_then_logic": [
+    "if dense canopy and high humidity then sheath blight risk increases"
+  ],
+  "content": "Sheath blight affects rice plants in dense and humid conditions. It starts near the water line and spreads upward, reducing plant strength and yield. Proper spacing and nitrogen management help reduce risk."
+},
+  {
+  "crop": "Rice",
+  "issue": "Nitrogen Deficiency",
+  "symptom": "uniform yellowing of older leaves, poor tillering",
+  "cause": "low nitrogen availability in soil",
+  "trigger_conditions": {
+    "soil": "low organic matter",
+    "fertilizer": "insufficient nitrogen application"
+  },
+  "affected_stage": ["vegetative"],
+  "impact": "reduced growth and low yield",
+  "severity": "high",
+  "yield_loss_estimate": "20-50%",
+  "prevention": [
+    "apply nitrogen fertilizer in split doses",
+    "maintain soil organic carbon"
+  ],
+  "treatment": [
+    "apply urea fertilizer as per recommendation"
+  ],
+  "if_then_logic": [
+    "if leaves turn yellow uniformly then nitrogen deficiency likely"
+  ],
+  "content": "Nitrogen deficiency in rice causes yellowing of older leaves and reduced tillering. It directly impacts plant growth and yield. Proper nitrogen management is essential for maintaining productivity."
+}]

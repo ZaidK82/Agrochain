@@ -1,10 +1,54 @@
+# Environment
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+!.env.example
+# Node / Next
 node_modules/
+.next/
 dist/
 build/
-.env
-*.zip
-*.log
-backend/models/*.pkl
-backend/models/
-models/
-models/*.pkl
+
+# Temporary Files
+temp/
+temp_uploads/
+cache/
+logs/
+
+agrochain-backend/temp/
+agrochain-backend/temp_uploads/
+
+# Large datasets
+Data/
+*.parquet
+
+# Models
+agrochain-backend/ml/models/
+
+# Optional extra model formats
+*.pth
+*.pt
+*.ckpt
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/

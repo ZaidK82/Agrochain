@@ -1,0 +1,42 @@
+{
+  "bacterial": {
+    "treatment": "Apply copper-based bactericide spray",
+    "action": "Remove heavily infected leaves",
+    "spread_risk": "high"
+  },
+  "rust": {
+    "treatment": "Use sulfur or triazole fungicide",
+    "action": "Improve airflow between plants",
+    "spread_risk": "moderate"
+  },
+  "leaf_spot": {
+    "treatment": "Apply broad-spectrum fungicide",
+    "action": "Remove infected leaves",
+    "spread_risk": "moderate"
+  },
+  "early_blight": {
+    "treatment": "Use chlorothalonil fungicide",
+    "action": "Remove lower infected leaves",
+    "spread_risk": "high"
+  },
+  "late_blight": {
+    "treatment": "Use copper fungicide immediately",
+    "action": "Isolate infected plants",
+    "spread_risk": "very_high"
+  },
+  "powdery_mildew": {
+    "treatment": "Apply sulfur spray",
+    "action": "Increase sunlight exposure",
+    "spread_risk": "moderate"
+  },
+  "virus": {
+    "treatment": "No chemical cure",
+    "action": "Remove infected plants immediately",
+    "spread_risk": "very_high"
+  },
+  "healthy": {
+    "treatment": "None",
+    "action": "Maintain normal crop care",
+    "spread_risk": "none"
+  }
+}

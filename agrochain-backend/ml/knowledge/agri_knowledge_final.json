@@ -1,0 +1,3026 @@
+[
+  {
+    "crop": "Rice",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Clayey or loamy soil with good water retention",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Rice grows best in Clayey or loamy soil with good water retention. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Continuous standing water of 2-5 cm, frequent irrigation",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Rice requires Continuous standing water of 2-5 cm, frequent irrigation. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Rice grows best in temperature range 20-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK in split doses, use urea and DAP as per soil test",
+    "content": "Proper fertilization is essential for Rice. Recommended approach: Apply NPK in split doses, use urea and DAP as per soil test. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "Blast infection leaf damage disease",
+    "cause": "Blast",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rice is commonly affected by Blast. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "Bacterial Leaf Blight infection leaf damage disease",
+    "cause": "Bacterial Leaf Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rice is commonly affected by Bacterial Leaf Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "Sheath Blight infection leaf damage disease",
+    "cause": "Sheath Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rice is commonly affected by Sheath Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Wheat grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "water stress drought over irrigation",
+    "cause": "4-6 irrigations at critical stages",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Wheat requires 4-6 irrigations at critical stages. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "heat stress temperature impact",
+    "cause": "10-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Wheat grows best in temperature range 10-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with higher nitrogen, use urea in split doses",
+    "content": "Proper fertilization is essential for Wheat. Recommended approach: Apply NPK with higher nitrogen, use urea in split doses. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Wheat is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "Loose Smut infection leaf damage disease",
+    "cause": "Loose Smut",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Wheat is commonly affected by Loose Smut. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Wheat is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Maize grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigate at flowering and grain filling stages",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Maize requires Irrigate at flowering and grain filling stages. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "heat stress temperature impact",
+    "cause": "18-32\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Maize grows best in temperature range 18-32\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with focus on nitrogen, use urea and potash",
+    "content": "Proper fertilization is essential for Maize. Recommended approach: Apply NPK with focus on nitrogen, use urea and potash. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "Leaf Blight infection leaf damage disease",
+    "cause": "Leaf Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Maize is commonly affected by Leaf Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Maize is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "Stalk Rot infection leaf damage disease",
+    "cause": "Stalk Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Maize is commonly affected by Stalk Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Deep fertile loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Sugarcane grows best in Deep fertile loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days in summer",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Sugarcane requires Irrigation every 7-10 days in summer. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-38\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Sugarcane grows best in temperature range 20-38\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply heavy organic manure and NPK, high nitrogen required",
+    "content": "Proper fertilization is essential for Sugarcane. Recommended approach: Apply heavy organic manure and NPK, high nitrogen required. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Red Rot infection leaf damage disease",
+    "cause": "Red Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sugarcane is commonly affected by Red Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Smut infection leaf damage disease",
+    "cause": "Smut",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sugarcane is commonly affected by Smut. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sugarcane is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Black cotton soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Cotton grows best in Black cotton soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 10-15 days depending on soil moisture",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Cotton requires Irrigation every 10-15 days depending on soil moisture. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "heat stress temperature impact",
+    "cause": "21-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Cotton grows best in temperature range 21-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with potash, balanced fertilization needed",
+    "content": "Proper fertilization is essential for Cotton. Recommended approach: Apply NPK with potash, balanced fertilization needed. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Boll Rot infection leaf damage disease",
+    "cause": "Boll Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cotton is commonly affected by Boll Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Leaf Curl Virus infection leaf damage disease",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cotton is commonly affected by Leaf Curl Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cotton is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy to sandy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Jowar grows best in Well-drained loamy to sandy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 irrigations, mainly at flowering and grain filling",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Jowar requires 2-3 irrigations, mainly at flowering and grain filling. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-32\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Jowar grows best in temperature range 25-32\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with moderate nitrogen, use urea and DAP",
+    "content": "Proper fertilization is essential for Jowar. Recommended approach: Apply NPK with moderate nitrogen, use urea and DAP. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "Anthracnose infection leaf damage disease",
+    "cause": "Anthracnose",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Jowar is commonly affected by Anthracnose. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "Grain Mold infection leaf damage disease",
+    "cause": "Grain Mold",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Jowar is commonly affected by Grain Mold. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Jowar is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy and well-drained soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Bajra grows best in Sandy and well-drained soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Mostly rainfed, 1-2 irrigations if needed",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Bajra requires Mostly rainfed, 1-2 irrigations if needed. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Bajra grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply light NPK, low nitrogen requirement",
+    "content": "Proper fertilization is essential for Bajra. Recommended approach: Apply light NPK, low nitrogen requirement. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Bajra is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "Ergot infection leaf damage disease",
+    "cause": "Ergot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Bajra is commonly affected by Ergot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "Smut infection leaf damage disease",
+    "cause": "Smut",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Bajra is commonly affected by Smut. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Barley grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 irrigations at tillering and grain filling",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Barley requires 2-3 irrigations at tillering and grain filling. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "heat stress temperature impact",
+    "cause": "12-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Barley grows best in temperature range 12-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply moderate NPK, less nitrogen than wheat",
+    "content": "Proper fertilization is essential for Barley. Recommended approach: Apply moderate NPK, less nitrogen than wheat. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Barley is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "Loose Smut infection leaf damage disease",
+    "cause": "Loose Smut",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Barley is commonly affected by Loose Smut. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "Leaf Blight infection leaf damage disease",
+    "cause": "Leaf Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Barley is commonly affected by Leaf Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Red loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Ragi grows best in Red loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 irrigations, mostly rainfed",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Ragi requires 2-3 irrigations, mostly rainfed. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Ragi grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "Proper fertilization is essential for Ragi. Recommended approach: Apply NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "Blast infection leaf damage disease",
+    "cause": "Blast",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Ragi is commonly affected by Blast. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Ragi is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "Brown Spot infection leaf damage disease",
+    "cause": "Brown Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Ragi is commonly affected by Brown Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Gram grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "water stress drought over irrigation",
+    "cause": "1-2 irrigations at flowering and pod filling",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Gram requires 1-2 irrigations at flowering and pod filling. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Gram grows best in temperature range 20-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply low nitrogen, use DAP at sowing",
+    "content": "Proper fertilization is essential for Gram. Recommended approach: Apply low nitrogen, use DAP at sowing. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Gram is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "Ascochyta Blight infection leaf damage disease",
+    "cause": "Ascochyta Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Gram is commonly affected by Ascochyta Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Gram is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Tur grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Mostly rainfed, 1-2 irrigations if dry spell",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Tur requires Mostly rainfed, 1-2 irrigations if dry spell. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Tur grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply DAP at sowing, low nitrogen needed",
+    "content": "Proper fertilization is essential for Tur. Recommended approach: Apply DAP at sowing, low nitrogen needed. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tur is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "Sterility Mosaic infection leaf damage disease",
+    "cause": "Sterility Mosaic",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tur is commonly affected by Sterility Mosaic. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "Phytophthora Blight infection leaf damage disease",
+    "cause": "Phytophthora Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tur is commonly affected by Phytophthora Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Moong grows best in Sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 light irrigations",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Moong requires 2-3 light irrigations. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Moong grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply DAP at sowing, low fertilizer requirement",
+    "content": "Proper fertilization is essential for Moong. Recommended approach: Apply DAP at sowing, low fertilizer requirement. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "Yellow Mosaic Virus infection leaf damage disease",
+    "cause": "Yellow Mosaic Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Moong is commonly affected by Yellow Mosaic Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Moong is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Moong is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Loamy soil with good drainage",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Urad grows best in Loamy soil with good drainage. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Mostly rainfed, 1-2 irrigations if needed",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Urad requires Mostly rainfed, 1-2 irrigations if needed. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Urad grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply DAP and organic manure",
+    "content": "Proper fertilization is essential for Urad. Recommended approach: Apply DAP and organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "Yellow Mosaic Virus infection leaf damage disease",
+    "cause": "Yellow Mosaic Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Urad is commonly affected by Yellow Mosaic Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "Leaf Crinkle infection leaf damage disease",
+    "cause": "Leaf Crinkle",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Urad is commonly affected by Leaf Crinkle. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Urad is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Lentil grows best in Loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "water stress drought over irrigation",
+    "cause": "1-2 irrigations at flowering",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Lentil requires 1-2 irrigations at flowering. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "heat stress temperature impact",
+    "cause": "18-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Lentil grows best in temperature range 18-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply low nitrogen, use DAP",
+    "content": "Proper fertilization is essential for Lentil. Recommended approach: Apply low nitrogen, use DAP. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Lentil is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Lentil is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "Blight infection leaf damage disease",
+    "cause": "Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Lentil is commonly affected by Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Peas & Beans grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 irrigations during flowering and pod stage",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Peas & Beans requires 2-3 irrigations during flowering and pod stage. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Peas & Beans grows best in temperature range 15-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply DAP and organic manure",
+    "content": "Proper fertilization is essential for Peas & Beans. Recommended approach: Apply DAP and organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Peas & Beans is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Peas & Beans is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Peas & Beans is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam soil with good drainage",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Groundnut grows best in Sandy loam soil with good drainage. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "water stress drought over irrigation",
+    "cause": "3-4 irrigations at flowering and pod formation",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Groundnut requires 3-4 irrigations at flowering and pod formation. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Groundnut grows best in temperature range 25-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply gypsum and DAP at sowing",
+    "content": "Proper fertilization is essential for Groundnut. Recommended approach: Apply gypsum and DAP at sowing. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "Tikka Leaf Spot infection leaf damage disease",
+    "cause": "Tikka Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Groundnut is commonly affected by Tikka Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Groundnut is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "Stem Rot infection leaf damage disease",
+    "cause": "Stem Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Groundnut is commonly affected by Stem Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Rapeseed & Mustard grows best in Loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 irrigations at flowering and pod stage",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Rapeseed & Mustard requires 2-3 irrigations at flowering and pod stage. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "heat stress temperature impact",
+    "cause": "10-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Rapeseed & Mustard grows best in temperature range 10-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with sulfur, use DAP",
+    "content": "Proper fertilization is essential for Rapeseed & Mustard. Recommended approach: Apply NPK with sulfur, use DAP. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "Alternaria Blight infection leaf damage disease",
+    "cause": "Alternaria Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rapeseed & Mustard is commonly affected by Alternaria Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "White Rust infection leaf damage disease",
+    "cause": "White Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rapeseed & Mustard is commonly affected by White Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rapeseed & Mustard is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Soybean grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Mostly rainfed, 1-2 irrigations if dry spell",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Soybean requires Mostly rainfed, 1-2 irrigations if dry spell. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Soybean grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply DAP and potash, low nitrogen needed",
+    "content": "Proper fertilization is essential for Soybean. Recommended approach: Apply DAP and potash, low nitrogen needed. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "Yellow Mosaic Virus infection leaf damage disease",
+    "cause": "Yellow Mosaic Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Soybean is commonly affected by Yellow Mosaic Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Soybean is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Soybean is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Sunflower grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "water stress drought over irrigation",
+    "cause": "3-4 irrigations at critical stages",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Sunflower requires 3-4 irrigations at critical stages. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Sunflower grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply balanced NPK with boron",
+    "content": "Proper fertilization is essential for Sunflower. Recommended approach: Apply balanced NPK with boron. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "Alternaria Blight infection leaf damage disease",
+    "cause": "Alternaria Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sunflower is commonly affected by Alternaria Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sunflower is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sunflower is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Sesamum grows best in Sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 light irrigations",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Sesamum requires 2-3 light irrigations. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Sesamum grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply light NPK, low fertilizer need",
+    "content": "Proper fertilization is essential for Sesamum. Recommended approach: Apply light NPK, low fertilizer need. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sesamum is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sesamum is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "Phyllody infection leaf damage disease",
+    "cause": "Phyllody",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Sesamum is commonly affected by Phyllody. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Safflower grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "water stress drought over irrigation",
+    "cause": "1-2 irrigations, mostly rainfed",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Safflower requires 1-2 irrigations, mostly rainfed. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Safflower grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply moderate NPK with organic manure",
+    "content": "Proper fertilization is essential for Safflower. Recommended approach: Apply moderate NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Safflower is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Safflower is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Safflower is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Alluvial soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Jute grows best in Alluvial soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Requires good rainfall, 2-3 irrigations if needed",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Jute requires Requires good rainfall, 2-3 irrigations if needed. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "heat stress temperature impact",
+    "cause": "24-37\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Jute grows best in temperature range 24-37\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "Proper fertilization is essential for Jute. Recommended approach: Apply NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "Stem Rot infection leaf damage disease",
+    "cause": "Stem Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Jute is commonly affected by Stem Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "Leaf Mosaic infection leaf damage disease",
+    "cause": "Leaf Mosaic",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Jute is commonly affected by Leaf Mosaic. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "Anthracnose infection leaf damage disease",
+    "cause": "Anthracnose",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Jute is commonly affected by Anthracnose. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Loamy and alluvial soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Mesta grows best in Loamy and alluvial soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Mostly rainfed, irrigation if dry spell",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Mesta requires Mostly rainfed, irrigation if dry spell. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Mesta grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply balanced NPK",
+    "content": "Proper fertilization is essential for Mesta. Recommended approach: Apply balanced NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Mesta is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "Stem Rot infection leaf damage disease",
+    "cause": "Stem Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Mesta is commonly affected by Stem Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Mesta is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Acidic, well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Tea grows best in Acidic, well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Frequent light irrigation, maintain soil moisture",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Tea requires Frequent light irrigation, maintain soil moisture. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "heat stress temperature impact",
+    "cause": "18-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Tea grows best in temperature range 18-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with higher nitrogen, regular intervals",
+    "content": "Proper fertilization is essential for Tea. Recommended approach: Apply NPK with higher nitrogen, regular intervals. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "Blister Blight infection leaf damage disease",
+    "cause": "Blister Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tea is commonly affected by Blister Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tea is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "Grey Blight infection leaf damage disease",
+    "cause": "Grey Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tea is commonly affected by Grey Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Coffee grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation during dry months, flowering stage critical",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Coffee requires Irrigation during dry months, flowering stage critical. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-28\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Coffee grows best in temperature range 15-28\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK in split doses",
+    "content": "Proper fertilization is essential for Coffee. Recommended approach: Apply organic manure and NPK in split doses. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "Coffee Leaf Rust infection leaf damage disease",
+    "cause": "Coffee Leaf Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coffee is commonly affected by Coffee Leaf Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "Berry Disease infection leaf damage disease",
+    "cause": "Berry Disease",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coffee is commonly affected by Berry Disease. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coffee is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Deep well-drained laterite soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Rubber grows best in Deep well-drained laterite soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Regular irrigation in dry season",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Rubber requires Regular irrigation in dry season. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Rubber grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with magnesium, regular feeding",
+    "content": "Proper fertilization is essential for Rubber. Recommended approach: Apply NPK with magnesium, regular feeding. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "Abnormal Leaf Fall infection leaf damage disease",
+    "cause": "Abnormal Leaf Fall",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rubber is commonly affected by Abnormal Leaf Fall. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rubber is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Rubber is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Tobacco grows best in Sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Light and frequent irrigation",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Tobacco requires Light and frequent irrigation. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Tobacco grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with low nitrogen",
+    "content": "Proper fertilization is essential for Tobacco. Recommended approach: Apply NPK with low nitrogen. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "Leaf Curl infection leaf damage disease",
+    "cause": "Leaf Curl",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tobacco is commonly affected by Leaf Curl. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "Black Shank infection leaf damage disease",
+    "cause": "Black Shank",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tobacco is commonly affected by Black Shank. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "Mosaic Virus infection leaf damage disease",
+    "cause": "Mosaic Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tobacco is commonly affected by Mosaic Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam soil with good drainage",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Potato grows best in Sandy loam soil with good drainage. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Potato requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Potato grows best in temperature range 15-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply high potassium and NPK",
+    "content": "Proper fertilization is essential for Potato. Recommended approach: Apply high potassium and NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "Late Blight infection leaf damage disease",
+    "cause": "Late Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Potato is commonly affected by Late Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "Early Blight infection leaf damage disease",
+    "cause": "Early Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Potato is commonly affected by Early Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "Black Scurf infection leaf damage disease",
+    "cause": "Black Scurf",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Potato is commonly affected by Black Scurf. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Onion grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Onion requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "heat stress temperature impact",
+    "cause": "13-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Onion grows best in temperature range 13-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with sulfur",
+    "content": "Proper fertilization is essential for Onion. Recommended approach: Apply NPK with sulfur. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "Purple Blotch infection leaf damage disease",
+    "cause": "Purple Blotch",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Onion is commonly affected by Purple Blotch. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Onion is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "Neck Rot infection leaf damage disease",
+    "cause": "Neck Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Onion is commonly affected by Neck Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Tomato grows best in Well-drained sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Tomato requires Irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "heat stress temperature impact",
+    "cause": "18-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Tomato grows best in temperature range 18-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with higher potash",
+    "content": "Proper fertilization is essential for Tomato. Recommended approach: Apply NPK with higher potash. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "Early Blight infection leaf damage disease",
+    "cause": "Early Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tomato is commonly affected by Early Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "Late Blight infection leaf damage disease",
+    "cause": "Late Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tomato is commonly affected by Late Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "Leaf Curl Virus infection leaf damage disease",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Tomato is commonly affected by Leaf Curl Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Fertile loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Brinjal grows best in Fertile loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Brinjal requires Irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Brinjal grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "Proper fertilization is essential for Brinjal. Recommended approach: Apply NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "Phomopsis Blight infection leaf damage disease",
+    "cause": "Phomopsis Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Brinjal is commonly affected by Phomopsis Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Brinjal is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "Little Leaf infection leaf damage disease",
+    "cause": "Little Leaf",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Brinjal is commonly affected by Little Leaf. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Cabbage grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Cabbage requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Cabbage grows best in temperature range 15-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with higher nitrogen",
+    "content": "Proper fertilization is essential for Cabbage. Recommended approach: Apply NPK with higher nitrogen. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "Black Rot infection leaf damage disease",
+    "cause": "Black Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cabbage is commonly affected by Black Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cabbage is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "Club Root infection leaf damage disease",
+    "cause": "Club Root",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cabbage is commonly affected by Club Root. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Cauliflower grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Cauliflower requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Cauliflower grows best in temperature range 15-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "Proper fertilization is essential for Cauliflower. Recommended approach: Apply NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cauliflower is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "Black Rot infection leaf damage disease",
+    "cause": "Black Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cauliflower is commonly affected by Black Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "Damping Off infection leaf damage disease",
+    "cause": "Damping Off",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cauliflower is commonly affected by Damping Off. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Spinach grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Light irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Spinach requires Light irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "heat stress temperature impact",
+    "cause": "10-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Spinach grows best in temperature range 10-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply nitrogen-rich fertilizer and organic manure",
+    "content": "Proper fertilization is essential for Spinach. Recommended approach: Apply nitrogen-rich fertilizer and organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "Downy Mildew infection leaf damage disease",
+    "cause": "Downy Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Spinach is commonly affected by Downy Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Spinach is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "Damping Off infection leaf damage disease",
+    "cause": "Damping Off",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Spinach is commonly affected by Damping Off. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Okra grows best in Well-drained sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Okra requires Irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Okra grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "Proper fertilization is essential for Okra. Recommended approach: Apply NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "Yellow Vein Mosaic Virus infection leaf damage disease",
+    "cause": "Yellow Vein Mosaic Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Okra is commonly affected by Yellow Vein Mosaic Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Okra is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Okra is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Garlic grows best in Well-drained sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 10-12 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Garlic requires Irrigation every 10-12 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "heat stress temperature impact",
+    "cause": "12-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Garlic grows best in temperature range 12-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with sulfur",
+    "content": "Proper fertilization is essential for Garlic. Recommended approach: Apply NPK with sulfur. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "Purple Blotch infection leaf damage disease",
+    "cause": "Purple Blotch",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Garlic is commonly affected by Purple Blotch. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "Stemphylium Blight infection leaf damage disease",
+    "cause": "Stemphylium Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Garlic is commonly affected by Stemphylium Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "Basal Rot infection leaf damage disease",
+    "cause": "Basal Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Garlic is commonly affected by Basal Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Ginger grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Ginger requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Ginger grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK",
+    "content": "Proper fertilization is essential for Ginger. Recommended approach: Apply organic manure and NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "Rhizome Rot infection leaf damage disease",
+    "cause": "Rhizome Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Ginger is commonly affected by Rhizome Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Ginger is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "Soft Rot infection leaf damage disease",
+    "cause": "Soft Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Ginger is commonly affected by Soft Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Turmeric grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Turmeric requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Turmeric grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and balanced NPK",
+    "content": "Proper fertilization is essential for Turmeric. Recommended approach: Apply organic manure and balanced NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "Leaf Blotch infection leaf damage disease",
+    "cause": "Leaf Blotch",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Turmeric is commonly affected by Leaf Blotch. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "Rhizome Rot infection leaf damage disease",
+    "cause": "Rhizome Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Turmeric is commonly affected by Rhizome Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Turmeric is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Chilli grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Chilli requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Chilli grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with higher potash",
+    "content": "Proper fertilization is essential for Chilli. Recommended approach: Apply NPK with higher potash. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "Anthracnose infection leaf damage disease",
+    "cause": "Anthracnose",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Chilli is commonly affected by Anthracnose. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "Leaf Curl Virus infection leaf damage disease",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Chilli is commonly affected by Leaf Curl Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Chilli is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Banana grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Banana requires Irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Banana grows best in temperature range 20-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply heavy organic manure and NPK",
+    "content": "Proper fertilization is essential for Banana. Recommended approach: Apply heavy organic manure and NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "Panama Wilt infection leaf damage disease",
+    "cause": "Panama Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Banana is commonly affected by Panama Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "Sigatoka Leaf Spot infection leaf damage disease",
+    "cause": "Sigatoka Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Banana is commonly affected by Sigatoka Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "Bunchy Top Virus infection leaf damage disease",
+    "cause": "Bunchy Top Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Banana is commonly affected by Bunchy Top Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Mango grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation during flowering and fruiting",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Mango requires Irrigation during flowering and fruiting. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "heat stress temperature impact",
+    "cause": "24-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Mango grows best in temperature range 24-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK annually",
+    "content": "Proper fertilization is essential for Mango. Recommended approach: Apply organic manure and NPK annually. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Mango is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "Anthracnose infection leaf damage disease",
+    "cause": "Anthracnose",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Mango is commonly affected by Anthracnose. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "Dieback infection leaf damage disease",
+    "cause": "Dieback",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Mango is commonly affected by Dieback. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Apple grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation at flowering and fruit development",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Apple requires Irrigation at flowering and fruit development. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-24\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Apple grows best in temperature range 15-24\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and balanced NPK",
+    "content": "Proper fertilization is essential for Apple. Recommended approach: Apply organic manure and balanced NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "Apple Scab infection leaf damage disease",
+    "cause": "Apple Scab",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Apple is commonly affected by Apple Scab. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Apple is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "Fire Blight infection leaf damage disease",
+    "cause": "Fire Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Apple is commonly affected by Fire Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam soil with good drainage",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Coconut grows best in Sandy loam soil with good drainage. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Coconut requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Coconut grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK with micronutrients",
+    "content": "Proper fertilization is essential for Coconut. Recommended approach: Apply organic manure and NPK with micronutrients. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "Root Wilt infection leaf damage disease",
+    "cause": "Root Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coconut is commonly affected by Root Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "Bud Rot infection leaf damage disease",
+    "cause": "Bud Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coconut is commonly affected by Bud Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "Stem Bleeding infection leaf damage disease",
+    "cause": "Stem Bleeding",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coconut is commonly affected by Stem Bleeding. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Arecanut grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 7-10 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Arecanut requires Irrigation every 7-10 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Arecanut grows best in temperature range 20-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK regularly",
+    "content": "Proper fertilization is essential for Arecanut. Recommended approach: Apply organic manure and NPK regularly. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "Yellow Leaf Disease infection leaf damage disease",
+    "cause": "Yellow Leaf Disease",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Arecanut is commonly affected by Yellow Leaf Disease. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "Bud Rot infection leaf damage disease",
+    "cause": "Bud Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Arecanut is commonly affected by Bud Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "Fruit Rot infection leaf damage disease",
+    "cause": "Fruit Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Arecanut is commonly affected by Fruit Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Black Pepper grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation during dry periods",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Black Pepper requires Irrigation during dry periods. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Black Pepper grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure with balanced NPK",
+    "content": "Proper fertilization is essential for Black Pepper. Recommended approach: Apply organic manure with balanced NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "Quick Wilt infection leaf damage disease",
+    "cause": "Quick Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Black Pepper is commonly affected by Quick Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "Foot Rot infection leaf damage disease",
+    "cause": "Foot Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Black Pepper is commonly affected by Foot Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Black Pepper is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Cardamom grows best in Loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Regular irrigation, maintain moisture",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Cardamom requires Regular irrigation, maintain moisture. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Cardamom grows best in temperature range 15-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK in split doses",
+    "content": "Proper fertilization is essential for Cardamom. Recommended approach: Apply organic manure and NPK in split doses. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "Capsule Rot infection leaf damage disease",
+    "cause": "Capsule Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cardamom is commonly affected by Capsule Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "Rhizome Rot infection leaf damage disease",
+    "cause": "Rhizome Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cardamom is commonly affected by Rhizome Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "Leaf Blotch infection leaf damage disease",
+    "cause": "Leaf Blotch",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cardamom is commonly affected by Leaf Blotch. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Coriander grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 10-12 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Coriander requires Irrigation every 10-12 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Coriander grows best in temperature range 15-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "Proper fertilization is essential for Coriander. Recommended approach: Apply NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coriander is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "Stem Gall infection leaf damage disease",
+    "cause": "Stem Gall",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coriander is commonly affected by Stem Gall. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Coriander is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Cumin grows best in Well-drained sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 light irrigations",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Cumin requires 2-3 light irrigations. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Cumin grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply light NPK",
+    "content": "Proper fertilization is essential for Cumin. Recommended approach: Apply light NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "Blight infection leaf damage disease",
+    "cause": "Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cumin is commonly affected by Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cumin is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Cumin is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Fenugreek grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "water stress drought over irrigation",
+    "cause": "2-3 irrigations at critical stages",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Fenugreek requires 2-3 irrigations at critical stages. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "heat stress temperature impact",
+    "cause": "15-25\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Fenugreek grows best in temperature range 15-25\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply moderate NPK with organic manure",
+    "content": "Proper fertilization is essential for Fenugreek. Recommended approach: Apply moderate NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Fenugreek is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Fenugreek is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Fenugreek is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Sandy loam to loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Small Millets grows best in Sandy loam to loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Mostly rainfed, 1-2 irrigations if needed",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Small Millets requires Mostly rainfed, 1-2 irrigations if needed. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Small Millets grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply light NPK with organic manure",
+    "content": "Proper fertilization is essential for Small Millets. Recommended approach: Apply light NPK with organic manure. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "Blast infection leaf damage disease",
+    "cause": "Blast",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Small Millets is commonly affected by Blast. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "Rust infection leaf damage disease",
+    "cause": "Rust",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Small Millets is commonly affected by Rust. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Small Millets is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Banana (Grand Naine) grows best in Well-drained loamy soil rich in organic matter. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Banana (Grand Naine) requires Irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Banana (Grand Naine) grows best in temperature range 20-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply heavy organic manure and NPK",
+    "content": "Proper fertilization is essential for Banana (Grand Naine). Recommended approach: Apply heavy organic manure and NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "Panama Wilt infection leaf damage disease",
+    "cause": "Panama Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Banana (Grand Naine) is commonly affected by Panama Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "Sigatoka Leaf Spot infection leaf damage disease",
+    "cause": "Sigatoka Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Banana (Grand Naine) is commonly affected by Sigatoka Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "Bunchy Top Virus infection leaf damage disease",
+    "cause": "Bunchy Top Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Banana (Grand Naine) is commonly affected by Bunchy Top Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Papaya grows best in Well-drained sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 5-7 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Papaya requires Irrigation every 5-7 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "heat stress temperature impact",
+    "cause": "22-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Papaya grows best in temperature range 22-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK",
+    "content": "Proper fertilization is essential for Papaya. Recommended approach: Apply organic manure and NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "Papaya Ring Spot Virus infection leaf damage disease",
+    "cause": "Papaya Ring Spot Virus",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Papaya is commonly affected by Papaya Ring Spot Virus. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "Powdery Mildew infection leaf damage disease",
+    "cause": "Powdery Mildew",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Papaya is commonly affected by Powdery Mildew. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "Root Rot infection leaf damage disease",
+    "cause": "Root Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Papaya is commonly affected by Root Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained loamy soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Guava grows best in Well-drained loamy soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation at flowering and fruiting",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Guava requires Irrigation at flowering and fruiting. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "heat stress temperature impact",
+    "cause": "20-30\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Guava grows best in temperature range 20-30\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and balanced NPK",
+    "content": "Proper fertilization is essential for Guava. Recommended approach: Apply organic manure and balanced NPK. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Guava is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "Anthracnose infection leaf damage disease",
+    "cause": "Anthracnose",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Guava is commonly affected by Anthracnose. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "Leaf Spot infection leaf damage disease",
+    "cause": "Leaf Spot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Guava is commonly affected by Leaf Spot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "low yield poor soil drainage fertility issue",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "poor root development and reduced nutrient absorption",
+    "solution": "improve soil structure, drainage, and organic matter",
+    "content": "Pomegranate grows best in Well-drained sandy loam soil. Poor soil conditions can lead to weak root development, reduced nutrient uptake, and ultimately lower yields. Improving soil structure and fertility is essential."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "water stress drought over irrigation",
+    "cause": "Irrigation every 10-15 days",
+    "impact": "reduced growth, yield loss, and plant stress",
+    "solution": "optimize irrigation scheduling based on crop needs",
+    "content": "Pomegranate requires Irrigation every 10-15 days. Improper irrigation can cause water stress or waterlogging, both of which negatively impact plant growth and yield."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "heat stress temperature impact",
+    "cause": "25-35\u00c2\u00b0C",
+    "impact": "affects growth cycle and yield",
+    "solution": "adjust planting time and use climate-resilient practices",
+    "content": "Pomegranate grows best in temperature range 25-35\u00c2\u00b0C. Extreme temperatures can stress the crop, affecting flowering, grain filling, and overall productivity."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "nutrient deficiency low yield yellow leaves",
+    "cause": "improper fertilization",
+    "impact": "stunted growth and reduced productivity",
+    "solution": "Apply organic manure and NPK regularly",
+    "content": "Proper fertilization is essential for Pomegranate. Recommended approach: Apply organic manure and NPK regularly. Lack of nutrients leads to poor growth, yellowing leaves, and reduced yield."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "Bacterial Blight infection leaf damage disease",
+    "cause": "Bacterial Blight",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Pomegranate is commonly affected by Bacterial Blight. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "Fruit Rot infection leaf damage disease",
+    "cause": "Fruit Rot",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Pomegranate is commonly affected by Fruit Rot. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "Wilt infection leaf damage disease",
+    "cause": "Wilt",
+    "impact": "reduces photosynthesis and yield",
+    "solution": "use resistant varieties and apply proper treatment",
+    "content": "Pomegranate is commonly affected by Wilt. This disease damages plant tissues, reduces photosynthesis, and lowers yield. Management includes resistant varieties and timely treatment."
+  }
+]

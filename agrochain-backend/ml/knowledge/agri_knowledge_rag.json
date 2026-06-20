@@ -1,0 +1,2242 @@
+[
+  {
+    "crop": "Rice",
+    "symptom": "soil suitability",
+    "cause": "Clayey or loamy soil with good water retention",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Rice grows best in Clayey or loamy soil with good water retention."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "Blast",
+    "cause": "Blast",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rice is affected by Blast. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "Bacterial Leaf Blight",
+    "cause": "Bacterial Leaf Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rice is affected by Bacterial Leaf Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "Sheath Blight",
+    "cause": "Sheath Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rice is affected by Sheath Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rice",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK in split doses, use urea and DAP as per soil test",
+    "content": "For Rice, fertilizer recommendation: Apply NPK in split doses, use urea and DAP as per soil test"
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Wheat grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Wheat is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "Loose Smut",
+    "cause": "Loose Smut",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Wheat is affected by Loose Smut. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Wheat is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Wheat",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with higher nitrogen, use urea in split doses",
+    "content": "For Wheat, fertilizer recommendation: Apply NPK with higher nitrogen, use urea in split doses"
+  },
+  {
+    "crop": "Maize",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Maize grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "Leaf Blight",
+    "cause": "Leaf Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Maize is affected by Leaf Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Maize is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "Stalk Rot",
+    "cause": "Stalk Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Maize is affected by Stalk Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Maize",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with focus on nitrogen, use urea and potash",
+    "content": "For Maize, fertilizer recommendation: Apply NPK with focus on nitrogen, use urea and potash"
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "soil suitability",
+    "cause": "Deep fertile loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Sugarcane grows best in Deep fertile loamy soil."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Red Rot",
+    "cause": "Red Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sugarcane is affected by Red Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Smut",
+    "cause": "Smut",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sugarcane is affected by Smut. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sugarcane is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply heavy organic manure and NPK, high nitrogen required",
+    "content": "For Sugarcane, fertilizer recommendation: Apply heavy organic manure and NPK, high nitrogen required"
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "soil suitability",
+    "cause": "Black cotton soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Cotton grows best in Black cotton soil."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Boll Rot",
+    "cause": "Boll Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cotton is affected by Boll Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Leaf Curl Virus",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cotton is affected by Leaf Curl Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cotton is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with potash, balanced fertilization needed",
+    "content": "For Cotton, fertilizer recommendation: Apply NPK with potash, balanced fertilization needed"
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy to sandy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Jowar grows best in Well-drained loamy to sandy soil."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "Anthracnose",
+    "cause": "Anthracnose",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Jowar is affected by Anthracnose. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "Grain Mold",
+    "cause": "Grain Mold",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Jowar is affected by Grain Mold. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Jowar is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Jowar",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with moderate nitrogen, use urea and DAP",
+    "content": "For Jowar, fertilizer recommendation: Apply NPK with moderate nitrogen, use urea and DAP"
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "soil suitability",
+    "cause": "Sandy and well-drained soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Bajra grows best in Sandy and well-drained soil."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Bajra is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "Ergot",
+    "cause": "Ergot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Bajra is affected by Ergot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "Smut",
+    "cause": "Smut",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Bajra is affected by Smut. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Bajra",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply light NPK, low nitrogen requirement",
+    "content": "For Bajra, fertilizer recommendation: Apply light NPK, low nitrogen requirement"
+  },
+  {
+    "crop": "Barley",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Barley grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Barley is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "Loose Smut",
+    "cause": "Loose Smut",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Barley is affected by Loose Smut. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "Leaf Blight",
+    "cause": "Leaf Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Barley is affected by Leaf Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Barley",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply moderate NPK, less nitrogen than wheat",
+    "content": "For Barley, fertilizer recommendation: Apply moderate NPK, less nitrogen than wheat"
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "soil suitability",
+    "cause": "Red loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Ragi grows best in Red loamy soil."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "Blast",
+    "cause": "Blast",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Ragi is affected by Blast. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Ragi is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "Brown Spot",
+    "cause": "Brown Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Ragi is affected by Brown Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Ragi",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "For Ragi, fertilizer recommendation: Apply NPK with organic manure"
+  },
+  {
+    "crop": "Gram",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Gram grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Gram is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "Ascochyta Blight",
+    "cause": "Ascochyta Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Gram is affected by Ascochyta Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Gram is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Gram",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply low nitrogen, use DAP at sowing",
+    "content": "For Gram, fertilizer recommendation: Apply low nitrogen, use DAP at sowing"
+  },
+  {
+    "crop": "Tur",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Tur grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tur is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "Sterility Mosaic",
+    "cause": "Sterility Mosaic",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tur is affected by Sterility Mosaic. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "Phytophthora Blight",
+    "cause": "Phytophthora Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tur is affected by Phytophthora Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tur",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply DAP at sowing, low nitrogen needed",
+    "content": "For Tur, fertilizer recommendation: Apply DAP at sowing, low nitrogen needed"
+  },
+  {
+    "crop": "Moong",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Moong grows best in Sandy loam soil."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "Yellow Mosaic Virus",
+    "cause": "Yellow Mosaic Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Moong is affected by Yellow Mosaic Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Moong is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Moong is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Moong",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply DAP at sowing, low fertilizer requirement",
+    "content": "For Moong, fertilizer recommendation: Apply DAP at sowing, low fertilizer requirement"
+  },
+  {
+    "crop": "Urad",
+    "symptom": "soil suitability",
+    "cause": "Loamy soil with good drainage",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Urad grows best in Loamy soil with good drainage."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "Yellow Mosaic Virus",
+    "cause": "Yellow Mosaic Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Urad is affected by Yellow Mosaic Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "Leaf Crinkle",
+    "cause": "Leaf Crinkle",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Urad is affected by Leaf Crinkle. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Urad is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Urad",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply DAP and organic manure",
+    "content": "For Urad, fertilizer recommendation: Apply DAP and organic manure"
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "soil suitability",
+    "cause": "Loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Lentil grows best in Loamy soil."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Lentil is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Lentil is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "Blight",
+    "cause": "Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Lentil is affected by Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Lentil",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply low nitrogen, use DAP",
+    "content": "For Lentil, fertilizer recommendation: Apply low nitrogen, use DAP"
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Peas & Beans grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Peas & Beans is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Peas & Beans is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Peas & Beans is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Peas & Beans",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply DAP and organic manure",
+    "content": "For Peas & Beans, fertilizer recommendation: Apply DAP and organic manure"
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam soil with good drainage",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Groundnut grows best in Sandy loam soil with good drainage."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "Tikka Leaf Spot",
+    "cause": "Tikka Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Groundnut is affected by Tikka Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Groundnut is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "Stem Rot",
+    "cause": "Stem Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Groundnut is affected by Stem Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Groundnut",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply gypsum and DAP at sowing",
+    "content": "For Groundnut, fertilizer recommendation: Apply gypsum and DAP at sowing"
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "soil suitability",
+    "cause": "Loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Rapeseed & Mustard grows best in Loamy soil."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "Alternaria Blight",
+    "cause": "Alternaria Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rapeseed & Mustard is affected by Alternaria Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "White Rust",
+    "cause": "White Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rapeseed & Mustard is affected by White Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rapeseed & Mustard is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rapeseed & Mustard",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with sulfur, use DAP",
+    "content": "For Rapeseed & Mustard, fertilizer recommendation: Apply NPK with sulfur, use DAP"
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Soybean grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "Yellow Mosaic Virus",
+    "cause": "Yellow Mosaic Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Soybean is affected by Yellow Mosaic Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Soybean is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Soybean is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Soybean",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply DAP and potash, low nitrogen needed",
+    "content": "For Soybean, fertilizer recommendation: Apply DAP and potash, low nitrogen needed"
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Sunflower grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "Alternaria Blight",
+    "cause": "Alternaria Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sunflower is affected by Alternaria Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sunflower is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sunflower is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sunflower",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply balanced NPK with boron",
+    "content": "For Sunflower, fertilizer recommendation: Apply balanced NPK with boron"
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Sesamum grows best in Sandy loam soil."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sesamum is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sesamum is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "Phyllody",
+    "cause": "Phyllody",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sesamum is affected by Phyllody. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sesamum",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply light NPK, low fertilizer need",
+    "content": "For Sesamum, fertilizer recommendation: Apply light NPK, low fertilizer need"
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Safflower grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Safflower is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Safflower is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Safflower is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Safflower",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply moderate NPK with organic manure",
+    "content": "For Safflower, fertilizer recommendation: Apply moderate NPK with organic manure"
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "soil suitability",
+    "cause": "Deep fertile loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Sugarcane grows best in Deep fertile loamy soil."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Red Rot",
+    "cause": "Red Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sugarcane is affected by Red Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Smut",
+    "cause": "Smut",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sugarcane is affected by Smut. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Sugarcane is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Sugarcane",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply heavy organic manure and NPK, high nitrogen required",
+    "content": "For Sugarcane, fertilizer recommendation: Apply heavy organic manure and NPK, high nitrogen required"
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "soil suitability",
+    "cause": "Black cotton soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Cotton grows best in Black cotton soil."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Boll Rot",
+    "cause": "Boll Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cotton is affected by Boll Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Leaf Curl Virus",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cotton is affected by Leaf Curl Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cotton is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cotton",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with potash, balanced fertilization needed",
+    "content": "For Cotton, fertilizer recommendation: Apply NPK with potash, balanced fertilization needed"
+  },
+  {
+    "crop": "Jute",
+    "symptom": "soil suitability",
+    "cause": "Alluvial soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Jute grows best in Alluvial soil."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "Stem Rot",
+    "cause": "Stem Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Jute is affected by Stem Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "Leaf Mosaic",
+    "cause": "Leaf Mosaic",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Jute is affected by Leaf Mosaic. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "Anthracnose",
+    "cause": "Anthracnose",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Jute is affected by Anthracnose. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Jute",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "For Jute, fertilizer recommendation: Apply NPK with organic manure"
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "soil suitability",
+    "cause": "Loamy and alluvial soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Mesta grows best in Loamy and alluvial soil."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Mesta is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "Stem Rot",
+    "cause": "Stem Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Mesta is affected by Stem Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Mesta is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Mesta",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply balanced NPK",
+    "content": "For Mesta, fertilizer recommendation: Apply balanced NPK"
+  },
+  {
+    "crop": "Tea",
+    "symptom": "soil suitability",
+    "cause": "Acidic, well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Tea grows best in Acidic, well-drained loamy soil."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "Blister Blight",
+    "cause": "Blister Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tea is affected by Blister Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tea is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "Grey Blight",
+    "cause": "Grey Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tea is affected by Grey Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tea",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with higher nitrogen, regular intervals",
+    "content": "For Tea, fertilizer recommendation: Apply NPK with higher nitrogen, regular intervals"
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Coffee grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "Coffee Leaf Rust",
+    "cause": "Coffee Leaf Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coffee is affected by Coffee Leaf Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "Berry Disease",
+    "cause": "Berry Disease",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coffee is affected by Berry Disease. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coffee is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coffee",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK in split doses",
+    "content": "For Coffee, fertilizer recommendation: Apply organic manure and NPK in split doses"
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "soil suitability",
+    "cause": "Deep well-drained laterite soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Rubber grows best in Deep well-drained laterite soil."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "Abnormal Leaf Fall",
+    "cause": "Abnormal Leaf Fall",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rubber is affected by Abnormal Leaf Fall. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rubber is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Rubber is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Rubber",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with magnesium, regular feeding",
+    "content": "For Rubber, fertilizer recommendation: Apply NPK with magnesium, regular feeding"
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Tobacco grows best in Sandy loam soil."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "Leaf Curl",
+    "cause": "Leaf Curl",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tobacco is affected by Leaf Curl. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "Black Shank",
+    "cause": "Black Shank",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tobacco is affected by Black Shank. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "Mosaic Virus",
+    "cause": "Mosaic Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tobacco is affected by Mosaic Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tobacco",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with low nitrogen",
+    "content": "For Tobacco, fertilizer recommendation: Apply NPK with low nitrogen"
+  },
+  {
+    "crop": "Potato",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam soil with good drainage",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Potato grows best in Sandy loam soil with good drainage."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "Late Blight",
+    "cause": "Late Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Potato is affected by Late Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "Early Blight",
+    "cause": "Early Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Potato is affected by Early Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "Black Scurf",
+    "cause": "Black Scurf",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Potato is affected by Black Scurf. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Potato",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply high potassium and NPK",
+    "content": "For Potato, fertilizer recommendation: Apply high potassium and NPK"
+  },
+  {
+    "crop": "Onion",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Onion grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "Purple Blotch",
+    "cause": "Purple Blotch",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Onion is affected by Purple Blotch. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Onion is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "Neck Rot",
+    "cause": "Neck Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Onion is affected by Neck Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Onion",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with sulfur",
+    "content": "For Onion, fertilizer recommendation: Apply NPK with sulfur"
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "soil suitability",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Tomato grows best in Well-drained sandy loam soil."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "Early Blight",
+    "cause": "Early Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tomato is affected by Early Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "Late Blight",
+    "cause": "Late Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tomato is affected by Late Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "Leaf Curl Virus",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Tomato is affected by Leaf Curl Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Tomato",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with higher potash",
+    "content": "For Tomato, fertilizer recommendation: Apply NPK with higher potash"
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "soil suitability",
+    "cause": "Fertile loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Brinjal grows best in Fertile loamy soil."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "Phomopsis Blight",
+    "cause": "Phomopsis Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Brinjal is affected by Phomopsis Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Brinjal is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "Little Leaf",
+    "cause": "Little Leaf",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Brinjal is affected by Little Leaf. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Brinjal",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "For Brinjal, fertilizer recommendation: Apply NPK with organic manure"
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Cabbage grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "Black Rot",
+    "cause": "Black Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cabbage is affected by Black Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cabbage is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "Club Root",
+    "cause": "Club Root",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cabbage is affected by Club Root. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cabbage",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with higher nitrogen",
+    "content": "For Cabbage, fertilizer recommendation: Apply NPK with higher nitrogen"
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Cauliflower grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cauliflower is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "Black Rot",
+    "cause": "Black Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cauliflower is affected by Black Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "Damping Off",
+    "cause": "Damping Off",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cauliflower is affected by Damping Off. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cauliflower",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "For Cauliflower, fertilizer recommendation: Apply NPK with organic manure"
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Spinach grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "Downy Mildew",
+    "cause": "Downy Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Spinach is affected by Downy Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Spinach is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "Damping Off",
+    "cause": "Damping Off",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Spinach is affected by Damping Off. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Spinach",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply nitrogen-rich fertilizer and organic manure",
+    "content": "For Spinach, fertilizer recommendation: Apply nitrogen-rich fertilizer and organic manure"
+  },
+  {
+    "crop": "Okra",
+    "symptom": "soil suitability",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Okra grows best in Well-drained sandy loam soil."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "Yellow Vein Mosaic Virus",
+    "cause": "Yellow Vein Mosaic Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Okra is affected by Yellow Vein Mosaic Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Okra is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Okra is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Okra",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "For Okra, fertilizer recommendation: Apply NPK with organic manure"
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "soil suitability",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Garlic grows best in Well-drained sandy loam soil."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "Purple Blotch",
+    "cause": "Purple Blotch",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Garlic is affected by Purple Blotch. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "Stemphylium Blight",
+    "cause": "Stemphylium Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Garlic is affected by Stemphylium Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "Basal Rot",
+    "cause": "Basal Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Garlic is affected by Basal Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Garlic",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with sulfur",
+    "content": "For Garlic, fertilizer recommendation: Apply NPK with sulfur"
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Ginger grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "Rhizome Rot",
+    "cause": "Rhizome Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Ginger is affected by Rhizome Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Ginger is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "Soft Rot",
+    "cause": "Soft Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Ginger is affected by Soft Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Ginger",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK",
+    "content": "For Ginger, fertilizer recommendation: Apply organic manure and NPK"
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Turmeric grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "Leaf Blotch",
+    "cause": "Leaf Blotch",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Turmeric is affected by Leaf Blotch. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "Rhizome Rot",
+    "cause": "Rhizome Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Turmeric is affected by Rhizome Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Turmeric is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Turmeric",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and balanced NPK",
+    "content": "For Turmeric, fertilizer recommendation: Apply organic manure and balanced NPK"
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Chilli grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "Anthracnose",
+    "cause": "Anthracnose",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Chilli is affected by Anthracnose. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "Leaf Curl Virus",
+    "cause": "Leaf Curl Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Chilli is affected by Leaf Curl Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Chilli is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Chilli",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with higher potash",
+    "content": "For Chilli, fertilizer recommendation: Apply NPK with higher potash"
+  },
+  {
+    "crop": "Banana",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Banana grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "Panama Wilt",
+    "cause": "Panama Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Banana is affected by Panama Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "Sigatoka Leaf Spot",
+    "cause": "Sigatoka Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Banana is affected by Sigatoka Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "Bunchy Top Virus",
+    "cause": "Bunchy Top Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Banana is affected by Bunchy Top Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Banana",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply heavy organic manure and NPK",
+    "content": "For Banana, fertilizer recommendation: Apply heavy organic manure and NPK"
+  },
+  {
+    "crop": "Mango",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Mango grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Mango is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "Anthracnose",
+    "cause": "Anthracnose",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Mango is affected by Anthracnose. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "Dieback",
+    "cause": "Dieback",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Mango is affected by Dieback. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Mango",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK annually",
+    "content": "For Mango, fertilizer recommendation: Apply organic manure and NPK annually"
+  },
+  {
+    "crop": "Apple",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Apple grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "Apple Scab",
+    "cause": "Apple Scab",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Apple is affected by Apple Scab. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Apple is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "Fire Blight",
+    "cause": "Fire Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Apple is affected by Fire Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Apple",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and balanced NPK",
+    "content": "For Apple, fertilizer recommendation: Apply organic manure and balanced NPK"
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam soil with good drainage",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Coconut grows best in Sandy loam soil with good drainage."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "Root Wilt",
+    "cause": "Root Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coconut is affected by Root Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "Bud Rot",
+    "cause": "Bud Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coconut is affected by Bud Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "Stem Bleeding",
+    "cause": "Stem Bleeding",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coconut is affected by Stem Bleeding. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coconut",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK with micronutrients",
+    "content": "For Coconut, fertilizer recommendation: Apply organic manure and NPK with micronutrients"
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Arecanut grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "Yellow Leaf Disease",
+    "cause": "Yellow Leaf Disease",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Arecanut is affected by Yellow Leaf Disease. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "Bud Rot",
+    "cause": "Bud Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Arecanut is affected by Bud Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "Fruit Rot",
+    "cause": "Fruit Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Arecanut is affected by Fruit Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Arecanut",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK regularly",
+    "content": "For Arecanut, fertilizer recommendation: Apply organic manure and NPK regularly"
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Black Pepper grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "Quick Wilt",
+    "cause": "Quick Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Black Pepper is affected by Quick Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "Foot Rot",
+    "cause": "Foot Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Black Pepper is affected by Foot Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Black Pepper is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Black Pepper",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure with balanced NPK",
+    "content": "For Black Pepper, fertilizer recommendation: Apply organic manure with balanced NPK"
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "soil suitability",
+    "cause": "Loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Cardamom grows best in Loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "Capsule Rot",
+    "cause": "Capsule Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cardamom is affected by Capsule Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "Rhizome Rot",
+    "cause": "Rhizome Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cardamom is affected by Rhizome Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "Leaf Blotch",
+    "cause": "Leaf Blotch",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cardamom is affected by Leaf Blotch. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cardamom",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK in split doses",
+    "content": "For Cardamom, fertilizer recommendation: Apply organic manure and NPK in split doses"
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Coriander grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coriander is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "Stem Gall",
+    "cause": "Stem Gall",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coriander is affected by Stem Gall. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Coriander is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Coriander",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply NPK with organic manure",
+    "content": "For Coriander, fertilizer recommendation: Apply NPK with organic manure"
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "soil suitability",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Cumin grows best in Well-drained sandy loam soil."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "Blight",
+    "cause": "Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cumin is affected by Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cumin is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Cumin is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Cumin",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply light NPK",
+    "content": "For Cumin, fertilizer recommendation: Apply light NPK"
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Fenugreek grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Fenugreek is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Fenugreek is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Fenugreek is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Fenugreek",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply moderate NPK with organic manure",
+    "content": "For Fenugreek, fertilizer recommendation: Apply moderate NPK with organic manure"
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "soil suitability",
+    "cause": "Sandy loam to loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Small Millets grows best in Sandy loam to loamy soil."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "Blast",
+    "cause": "Blast",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Small Millets is affected by Blast. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "Rust",
+    "cause": "Rust",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Small Millets is affected by Rust. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Small Millets is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Small Millets",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply light NPK with organic manure",
+    "content": "For Small Millets, fertilizer recommendation: Apply light NPK with organic manure"
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil rich in organic matter",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Banana (Grand Naine) grows best in Well-drained loamy soil rich in organic matter."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "Panama Wilt",
+    "cause": "Panama Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Banana (Grand Naine) is affected by Panama Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "Sigatoka Leaf Spot",
+    "cause": "Sigatoka Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Banana (Grand Naine) is affected by Sigatoka Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "Bunchy Top Virus",
+    "cause": "Bunchy Top Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Banana (Grand Naine) is affected by Bunchy Top Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Banana (Grand Naine)",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply heavy organic manure and NPK",
+    "content": "For Banana (Grand Naine), fertilizer recommendation: Apply heavy organic manure and NPK"
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "soil suitability",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Papaya grows best in Well-drained sandy loam soil."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "Papaya Ring Spot Virus",
+    "cause": "Papaya Ring Spot Virus",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Papaya is affected by Papaya Ring Spot Virus. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "Powdery Mildew",
+    "cause": "Powdery Mildew",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Papaya is affected by Powdery Mildew. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "Root Rot",
+    "cause": "Root Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Papaya is affected by Root Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Papaya",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK",
+    "content": "For Papaya, fertilizer recommendation: Apply organic manure and NPK"
+  },
+  {
+    "crop": "Guava",
+    "symptom": "soil suitability",
+    "cause": "Well-drained loamy soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Guava grows best in Well-drained loamy soil."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Guava is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "Anthracnose",
+    "cause": "Anthracnose",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Guava is affected by Anthracnose. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "Leaf Spot",
+    "cause": "Leaf Spot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Guava is affected by Leaf Spot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Guava",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and balanced NPK",
+    "content": "For Guava, fertilizer recommendation: Apply organic manure and balanced NPK"
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "soil suitability",
+    "cause": "Well-drained sandy loam soil",
+    "impact": "affects root growth and yield",
+    "solution": "use appropriate soil management",
+    "content": "Pomegranate grows best in Well-drained sandy loam soil."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "Bacterial Blight",
+    "cause": "Bacterial Blight",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Pomegranate is affected by Bacterial Blight. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "Fruit Rot",
+    "cause": "Fruit Rot",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Pomegranate is affected by Fruit Rot. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "Wilt",
+    "cause": "Wilt",
+    "impact": "reduces crop yield",
+    "solution": "apply recommended pesticide and prevention methods",
+    "content": "Pomegranate is affected by Wilt. Prevention includes proper care and treatment."
+  },
+  {
+    "crop": "Pomegranate",
+    "symptom": "low yield",
+    "cause": "nutrient deficiency",
+    "impact": "reduced productivity",
+    "solution": "Apply organic manure and NPK regularly",
+    "content": "For Pomegranate, fertilizer recommendation: Apply organic manure and NPK regularly"
+  }
+]
