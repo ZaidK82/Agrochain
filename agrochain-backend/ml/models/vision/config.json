@@ -1,0 +1,5 @@
+{
+  "model": "efficientnetv2_s",
+  "image_size": 224,
+  "classes": 11
+}
