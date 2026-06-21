@@ -25,6 +25,13 @@ The datasets cna be accessed from :
 
 - AgroChain Unified Soil Classification Dataset : https://www.kaggle.com/datasets/zaidkhan4782/soil-cv1
 
+The datasets cna be accessed from :
+### Yield Prediction Models
+https://www.kaggle.com/datasets/zaidkhan4782/agrochain-yield-prediction-models
+
+### Computer Vision Models
+https://www.kaggle.com/datasets/zaidkhan4782/agrochain-disease-and-soil-classification-models
+
 ---
 
 ### Model Information
